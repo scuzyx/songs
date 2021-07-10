@@ -21,8 +21,7 @@
             <td>装睡的情人</td>
         </tr>
         <tr>
-            <td rowspan=3>L2 Name B</td>
-            <td>其他</td>
+            <td rowspan=3>其他</td>
             <td>皇后大道东</td>
         </tr>
         <tr>
