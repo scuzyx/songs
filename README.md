@@ -8,7 +8,6 @@
             <th>Layer 3</th>
         </tr>
     </thead>
-    
     <tbody>
         <tr>
             <td rowspan=2>L2 Name A</td>
